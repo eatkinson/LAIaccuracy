@@ -23,4 +23,6 @@ Usage:
 ```python GlobalLAIaccuracy-userflags.py --Anc [TRUTH_FILE] --msp [RFMIX_MSPFILE]```
 
 
+Other files in this repository were hard coded for a specific project involving a very multi-way admixed population. These could be manually adapted for other use.
+
 
