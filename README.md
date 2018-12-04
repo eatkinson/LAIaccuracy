@@ -6,7 +6,7 @@ As input, the program expects two files.
 
 1) An ancestral truth file with the chr, bp position, and space delimited phased ancestry calls. 
 It is current hard-coded to expect 50 haplotypes (25 individuals) and a 2-way admixed scenario (ancestry calls can be 0 or 1).
-An example including two individuals:
+An example including two individuals at two SNPs:
 ```
 1 570178 1 1 1 1
 1 752566 1 1 0 1
